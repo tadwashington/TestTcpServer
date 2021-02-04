@@ -1,0 +1,53 @@
+{
+  "ipset": [
+
+    {
+      "client": "KAIHATU",
+      "localip": "192.168.0.110",
+      "deviceip": "192.168.0.110",
+      "practice": "1"
+    },
+    {
+      "client": "TEST",
+      "localip": "10.251.244.34",
+      "deviceip": "10.251.246.33",
+      "practice": "1"
+    },
+    {
+      "client": "ks-441411",
+      "localip": "10.253.2.21",
+      "deviceip": "10.253.2.41",
+      "practice": "0"
+    },
+    {
+      "client": "ks-441412",
+      "localip": "10.253.2.22",
+      "deviceip": "10.253.2.42",
+      "practice": "0"
+    },
+    {
+      "client": "ks-441413",
+      "localip": "10.253.2.23",
+      "deviceip": "10.253.2.43",
+      "practice": "0"
+    },
+    {
+      "client": "ks-787611",
+      "localip": "10.253.4.31",
+      "deviceip": "10.253.4.41",
+      "practice": "0"
+    },
+    {
+      "client": "ks-787612",
+      "localip": "10.253.4.32",
+      "deviceip": "10.253.4.42",
+      "practice": "0"
+    },
+    {
+      "client": "ks-787613",
+      "localip": "10.253.4.33",
+      "deviceip": "10.253.4.43",
+      "practice": "0"
+    }
+  ]
+}
